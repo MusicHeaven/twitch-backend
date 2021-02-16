@@ -1,0 +1,7 @@
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/entity/Game.java
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchClient.java
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/entity/Item.java
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/entity/ItemType.java
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/servlet/SearchServlet.java
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/servlet/GameServlet.java
+/Users/mezhang/myProject/twitch/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchException.java
